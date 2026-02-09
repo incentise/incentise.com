@@ -1,6 +1,9 @@
 
 
-Incentise turns incentives into public acknowledgment & social proof
+## Concept
+
+This project is built around **incentives turned into social proof**, where rewards are not just claimed—but publicly acknowledged.
+
 
 
 https://incentise.com
